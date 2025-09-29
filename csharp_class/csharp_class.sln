@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "override_virtual", "overrid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abrtuct_class", "abrtuct_class\abrtuct_class.csproj", "{26AE37C8-91C9-4F13-88F6-D3F8F7A68BE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parameter_modifier", "parameter_modifier\parameter_modifier.csproj", "{AEF5B4E3-641E-4BDD-B0F4-759CA6DC8712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuple", "tuple\tuple.csproj", "{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{26AE37C8-91C9-4F13-88F6-D3F8F7A68BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AE37C8-91C9-4F13-88F6-D3F8F7A68BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AE37C8-91C9-4F13-88F6-D3F8F7A68BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF5B4E3-641E-4BDD-B0F4-759CA6DC8712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5B4E3-641E-4BDD-B0F4-759CA6DC8712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5B4E3-641E-4BDD-B0F4-759CA6DC8712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5B4E3-641E-4BDD-B0F4-759CA6DC8712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
