@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parameter_modifier", "param
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuple", "tuple\tuple.csproj", "{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics", "generics\generics.csproj", "{5DDFF317-5333-4077-976A-E10CC78F2776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BDB13F5-A6E6-43EF-9750-4ED931E41E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDFF317-5333-4077-976A-E10CC78F2776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDFF317-5333-4077-976A-E10CC78F2776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDFF317-5333-4077-976A-E10CC78F2776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDFF317-5333-4077-976A-E10CC78F2776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
